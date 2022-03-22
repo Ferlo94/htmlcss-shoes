@@ -4,20 +4,24 @@
     box-sizing: border-box;
 }
 
-body {
-    max-width: 1200px;
-    margin: auto;
-}
-
 .banner {
     height: 100px;
-    background-color: bisque;
-    position: absolute;
-    width: 100%;
+    /* togliere */
+    background-color: pink;
+    position: fixed;
+    margin-left: 1000px;
+    margin-top: 20px;
 }
 
+
 .contenitore {
-    display: inline-block;
+    /* togliere */
+    background-color: aquamarine;
+    /* togliere */
+    min-height: 3000px; 
+    max-width: 1200px;
+    margin: auto;
+
 }
 
 a, ul, nav, li{
@@ -27,19 +31,17 @@ a, ul, nav, li{
 
 .numeri {
         color: black;
-        font-size: 20px;
-
+        font-size: 23px;
 }
 
 .cerchi {
-    display: inline-block;
     height: 50px;
     width: 50px;
-    background-color: white;
+    background-color: rgb(122, 27, 27);
     border-radius: 50%;
     text-align: center;
     line-height: 50px;
     text-decoration: none;
-    
+    margin-right: 20px;
 
 }
