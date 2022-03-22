@@ -6,42 +6,43 @@
 
 .banner {
     height: 100px;
-    /* togliere */
-    background-color: pink;
     position: fixed;
     margin-left: 1000px;
     margin-top: 20px;
 }
 
-
 .contenitore {
-    /* togliere */
-    background-color: aquamarine;
-    /* togliere */
     min-height: 3000px; 
     max-width: 1200px;
     margin: auto;
-
 }
 
 a, ul, nav, li{
     display: inline-block;    
-    
 }
 
 .numeri {
-        color: black;
-        font-size: 23px;
+    color: black;
+    font-size: 23px;
 }
 
 .cerchi {
     height: 50px;
     width: 50px;
-    background-color: rgb(122, 27, 27);
+    background-color: white;
     border-radius: 50%;
     text-align: center;
     line-height: 50px;
     text-decoration: none;
     margin-right: 20px;
+}
 
+.scarpa-1 {
+    height: 100vh;
+    background-color: blueviolet;
+}
+
+.scarpa-2 {
+    height: 100vh;
+    background-color: brown;
 }
