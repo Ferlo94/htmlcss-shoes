@@ -39,10 +39,15 @@ a, ul, nav, li{
 
 .scarpa-1 {
     height: 100vh;
-    background-color: blueviolet;
+    background-color: #ff0000;
 }
 
 .scarpa-2 {
     height: 100vh;
-    background-color: brown;
+    background-color: #008000;
+}
+
+.scarpa-3 {
+    height: 100vh;
+    background-color: #ffff00;
 }
