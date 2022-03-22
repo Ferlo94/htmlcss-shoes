@@ -12,6 +12,8 @@ body {
 .banner {
     height: 100px;
     background-color: bisque;
+    position: absolute;
+    width: 100%;
 }
 
 .contenitore {
@@ -24,8 +26,20 @@ a, ul, nav, li{
 }
 
 .numeri {
-    text-decoration: none;
-    color: black;
-    font: 20px;
+        color: black;
+        font-size: 20px;
+
+}
+
+.cerchi {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
     background-color: white;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: none;
+    
+
 }
