@@ -30,7 +30,7 @@ a, ul, nav, li{
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 35px;
 }
 
 .numeri {
@@ -71,28 +71,28 @@ h1 {
 
 #scarpa-1 {
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
 #scarpa-2 {
     position: absolute;
-    top: 50%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
 #scarpa-3 {
     position: absolute;
-    top: 50%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
 .testo-scarpa-giallo {
     position: absolute;
-    top: 80%;
+    top: 85%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -101,7 +101,7 @@ h1 {
 
 .testo-scarpa-verde {
     position: absolute;
-    top: 80%;
+    top: 85%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
